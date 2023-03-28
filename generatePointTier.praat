@@ -8,8 +8,8 @@ clearinfo
 form Select audio file
 	
 	comment TG path should be long annotated/aligned/corrected TextGrid
-	infile tg_path D:\data\lesson\emphatic lateral\TG\wav\EXP002_Onyx-Clean.TextGrid
-	infile wav_path D:\data\lesson\emphatic lateral\TG\wav\EXP002_Onyx-Clean_ch1.wav
+	infile tg_path Recording.TextGrid
+	infile wav_path Recording.wav
 	positive word_tier 2
 	positive point_tier 4
 	positive repeatTime 3
