@@ -10,9 +10,9 @@ form Select files
 	
 	comment TG should be corrected TextGrid and correspond to wav file
 	
-	infile tgPath D:\data\lesson\LING3006\AXBStimuli_Keo.TextGrid
-	infile wavPath D:\data\lesson\LING3006\AXBStimuli_Keo.wav
-	folder outDir D:\data\lesson\LING3006\Keo_normalized
+	infile tgPath Stimuli.TextGrid
+	infile wavPath Stimuli.wav
+	folder outDir Stimuli_normalized
 	positive phraseTier 1
 	positive wordTier 2
 	positive segmentTier 3
