@@ -1,2 +1,4 @@
-# Scripts-for-Linguistics
-Praat/Python/PsychoPy/Java/R scripts that can be used in data collection and analysis for linguists
+Praat Scripts
+
+Tips:
+1. Download praat Vocal Toolkit, which is a plugin of praat and has lots of sound manipulation functions
